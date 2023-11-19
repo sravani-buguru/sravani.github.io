@@ -1,4 +1,5 @@
-# Data Scientist
+# Objective
+"Aspiring data scientist with a passion for leveraging data to solve real-world problems. Possesses strong skills in Python, Pandas,Data Analysis, Data Visulization, PowerBI along with experience in machine learning and data visualization. Eager to contribute to innovative projects and make a positive impact in the data science field."
 
 ### Education
 B.sc (Computer Science)
